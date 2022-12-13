@@ -8,8 +8,8 @@ In order to stablish the main interest in our data set, we have utilized the EDA
 * What are the top 5 movies by gross revenue?
 * What are the stars that made the most movies in this period of time? And the directors?
 * What are the directors that have generated the most revenue?
-* What is the volume of movies coming out per year?
 * What are the best movies by score?
+* What is the volume of movies coming out per year?
 
 # FINDINGS
 
