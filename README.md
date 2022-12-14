@@ -2,6 +2,9 @@
 
 ### Movie Correlation and Exploratory data analisys (EDA)
 
+#### ABOUT DATA SET
+There are 6820 movies in the dataset (220 movies per year, 1986-2016).
+
 In order to stablish the main interest in our data set, we have utilized the EDA and correlation methods.
 > EDA:  We explore the dataset through some visualizations to answered the following questions.
 
